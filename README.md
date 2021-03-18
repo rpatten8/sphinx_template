@@ -4,7 +4,7 @@ A template project to be used for doc generation without cluttering source proje
 ## How to use
 
 - Clone from repository
-- Delete app.py and conf.py
+- Delete app.py and functions.py
 - Copy files from source project to:
 
 ```sphinx_template > project_folder```
@@ -15,7 +15,9 @@ A template project to be used for doc generation without cluttering source proje
 
 ![img_2.png](img_2.png)
   
-  
+
+^ Remember to delete project_folder.functions
+
 - In terminal (if not already there):
 
 ```
