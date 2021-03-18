@@ -3,7 +3,7 @@ A template project to be used for doc generation without cluttering source proje
 
 ## How to use
 
-- Make a new local branch
+- Clone from repository
 - Delete app.py and conf.py
 - Copy files from source project to:
 
