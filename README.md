@@ -6,6 +6,8 @@
 
 - Open the index.rst file within docs
 - for each new py file add:
+
+
 ![img_2.png](img_2.png)
   
   
